@@ -1,40 +1,50 @@
-## Hi 👋 I'm Namratha R
+## ✨ Hey there, I’m Namratha 👋
 
-🏅 Gold Medalist (Batch Topper) – BCA 2025  
+🎓 Gold Medalist (Batch Topper) – BCA 2025  
 💻 Full Stack Web Developer (MERN Stack)  
-🎓 MCA Student @ CHRIST (Deemed to be University), Bangalore  
+📍 MCA Student @ CHRIST (Deemed to be University), Bangalore  
 
 ---
 
-### 🎯 About Me
-I am a Full Stack Web Developer with a strong foundation in MERN stack development and experience in building scalable, user-centric web applications. I am passionate about solving real-world problems through technology and continuously enhancing my technical skills.
+### 🧠 Who Am I?
+- Full Stack Web Developer with a strong foundation in MERN stack  
+- Passionate about building scalable, user-centric web applications  
+- Experienced in frontend, backend, and database integration  
+- Strong leadership experience as Event Head for college IT fests  
+- Continuously learning and adapting to new technologies  
 
 ---
 
-### 🛠 Technical Skills
+### 🛠 Tech Arsenal
 
-**Programming Languages**  
-- C, Java, JavaScript, Python  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-**Web Technologies & Frameworks**  
-- React.js, Node.js, Express.js, Next.js  
-- Tailwind CSS  
-- RESTful APIs  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-**Databases**  
-- MongoDB, MySQL, Cassandra  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
-**Tools & Platforms**  
-- Git, GitHub  
-- Postman  
-- VS Code  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
 ### 💼 Internship Experience
 **EY Global Delivery Services – AICTE Internship** *(Dec 2024 – Jan 2025)*  
 - Completed a 6-week internship focused on MERN Stack development  
-- Developed a Spotify Clone using MongoDB, Express.js, React.js, and Node.js  
+- Developed a **Spotify Clone** using MongoDB, Express.js, React.js, and Node.js  
 - Implemented authentication using Clerk and integrated Spotify APIs  
 - Gained hands-on experience in full stack development and database connectivity  
 
@@ -43,39 +53,26 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 ### 🚀 Projects
 
 #### 🎵 Spotify Clone (MERN Stack)
-- Built a full-stack music streaming application inspired by Spotify  
-- Implemented user authentication using Clerk  
-- Integrated Spotify APIs to fetch and display real-time music data  
-- Designed responsive UI using React and Tailwind CSS  
-- Developed backend APIs using Node.js and Express.js  
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Clerk, Spotify API  
-
----
+- Full-stack music streaming application inspired by Spotify  
+- Integrated Spotify APIs for real-time music data  
+- Implemented secure authentication using Clerk  
+- Built responsive UI using React and Tailwind CSS  
 
 #### 🏥 MedCare – Hospital Management System
-- Developed a web-based hospital management system for efficient handling of patient and doctor records  
-- Implemented appointment booking and patient record management modules  
-- Designed role-based access for admins and staff  
-- Focused on data consistency and structured database design  
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
-
----
+- Web-based system for managing patients, doctors, and appointments  
+- Implemented appointment booking and patient record management  
+- Focused on structured database design and data consistency  
 
 #### 🎉 Eventify – Event Management System
-- Designed and developed an event management system to support smooth coordination of college fests  
-- Implemented event scheduling and participant registration features  
-- Developed admin controls for managing events and participants  
-- Built a user-friendly interface for both organizers and participants  
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+- Event management platform for organizing college fests  
+- Implemented event scheduling and participant registration  
+- Developed admin controls for managing events and users  
 
 ---
 
 ### 🏆 Leadership Experience
-- Event Head – IT Fest **Kalopsia 2024**, Presidency College  
-- Event Head – IT Fest **Aarohana 2023**, Presidency College  
+- **Event Head – IT Fest Kalopsia 2024**, Presidency College  
+- **Event Head – IT Fest Aarohana 2023**, Presidency College  
 
 ---
 
@@ -85,7 +82,7 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 
 - **Bachelor of Computer Applications (BCA)**  
   Presidency College, Bangalore  
-  🏅 Gold Medalist / Batch Topper – 9.54  
+  🏅 Gold Medalist / Batch Topper – 94.37%  
 
 ---
 
@@ -96,6 +93,6 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 
 ---
 
-### 📫 Connect With Me
-- Email: namrp.18@gmail.com
-- LinkedIn: https://www.linkedin.com/in/namrathar18
+### 📫 Contact Me
+- 📧 Email: namratha.r@mca.christuniversity.in  
+- 🔗 LinkedIn: https://www.linkedin.com/in/namrathar18
