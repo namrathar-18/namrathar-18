@@ -7,7 +7,7 @@
 ---
 
 ### 🎯 About Me
-I am a Full Stack Web Developer with strong foundations in MERN stack development and a keen interest in building scalable, user-centric web applications. I enjoy working on real-world projects, learning new technologies, and contributing to impactful solutions.
+I am a Full Stack Web Developer with a strong foundation in MERN stack development and experience in building scalable, user-centric web applications. I am passionate about solving real-world problems through technology and continuously enhancing my technical skills.
 
 ---
 
@@ -22,7 +22,7 @@ I am a Full Stack Web Developer with strong foundations in MERN stack developmen
 - RESTful APIs  
 
 **Databases**  
-- MySQL, MongoDB, Cassandra  
+- MongoDB, MySQL, Cassandra  
 
 **Tools & Platforms**  
 - Git, GitHub  
@@ -32,31 +32,50 @@ I am a Full Stack Web Developer with strong foundations in MERN stack developmen
 ---
 
 ### 💼 Internship Experience
-**EY Global Delivery Services – AICTE Internship**  
-*(Dec 2024 – Jan 2025)*  
+**EY Global Delivery Services – AICTE Internship** *(Dec 2024 – Jan 2025)*  
 - Completed a 6-week internship focused on MERN Stack development  
 - Developed a Spotify Clone using MongoDB, Express.js, React.js, and Node.js  
 - Implemented authentication using Clerk and integrated Spotify APIs  
-- Gained hands-on experience in frontend, backend, and database connectivity  
+- Gained hands-on experience in full stack development and database connectivity  
 
 ---
 
 ### 🚀 Projects
-- **Formulytic** – State Government Project (Ongoing)  
-  Platform for efficient form creation and management, currently used by 500+ users.  
-  *(Planned features: authentication, analytics dashboard, real-time data processing)*
 
-- **Eventify**  
-  Event management system for organizing and managing college fests efficiently.
+#### 🎵 Spotify Clone (MERN Stack)
+- Built a full-stack music streaming application inspired by Spotify  
+- Implemented user authentication using Clerk  
+- Integrated Spotify APIs to fetch and display real-time music data  
+- Designed responsive UI using React and Tailwind CSS  
+- Developed backend APIs using Node.js and Express.js  
 
-- **Medcare**  
-  Hospital management system for handling appointments, patient records, and billing.
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Clerk, Spotify API  
+
+---
+
+#### 🏥 MedCare – Hospital Management System
+- Developed a web-based hospital management system for efficient handling of patient and doctor records  
+- Implemented appointment booking and patient record management modules  
+- Designed role-based access for admins and staff  
+- Focused on data consistency and structured database design  
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+
+---
+
+#### 🎉 Eventify – Event Management System
+- Designed and developed an event management system to support smooth coordination of college fests  
+- Implemented event scheduling and participant registration features  
+- Developed admin controls for managing events and participants  
+- Built a user-friendly interface for both organizers and participants  
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
 
 ---
 
 ### 🏆 Leadership Experience
-- **Event Head – IT Fest (Kalopsia 2024)**, Presidency College  
-- **Event Head – IT Fest (Aarohana 2023)**, Presidency College  
+- Event Head – IT Fest **Kalopsia 2024**, Presidency College  
+- Event Head – IT Fest **Aarohana 2023**, Presidency College  
 
 ---
 
@@ -66,7 +85,7 @@ I am a Full Stack Web Developer with strong foundations in MERN stack developmen
 
 - **Bachelor of Computer Applications (BCA)**  
   Presidency College, Bangalore  
-  🏅 Gold Medalist / Batch Topper – 94.37%  
+  🏅 Gold Medalist / Batch Topper – 9.54  
 
 ---
 
