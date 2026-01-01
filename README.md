@@ -14,7 +14,7 @@ I am a Full Stack Web Developer with strong foundations in MERN stack developmen
 ### 🛠 Technical Skills
 
 **Programming Languages**  
-- C, Java, JavaScript  
+- C, Java, JavaScript, Python  
 
 **Web Technologies & Frameworks**  
 - React.js, Node.js, Express.js, Next.js  
@@ -78,5 +78,5 @@ I am a Full Stack Web Developer with strong foundations in MERN stack developmen
 ---
 
 ### 📫 Connect With Me
-- Email: namratha.r@mca.christuniversity.in  
+- Email: namrp.18@gmail.com
 - LinkedIn: https://www.linkedin.com/in/namrathar18
