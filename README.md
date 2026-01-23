@@ -98,4 +98,4 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 
 ### 📫 Connect With Me
 - Email: namrp.18@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/namratharpm
+- LinkedIn: https://www.linkedin.com/in/namratharp18
