@@ -85,7 +85,7 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 
 - **Bachelor of Computer Applications (BCA)**  
   Presidency College, Bangalore  
-  🏅 Gold Medalist / Batch Topper – 94.37%  
+  🏅 Gold Medalist / Batch Topper – 9.54 GPA 
 
 ---
 
@@ -98,4 +98,4 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 
 ### 📫 Connect With Me
 - Email: namrp.18@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/namrathar18
+- LinkedIn: https://www.linkedin.com/in/namratharpm
