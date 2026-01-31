@@ -16,18 +16,26 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 **Programming Languages**  
 - C, Java, JavaScript, Python  
 
-**Web Technologies & Frameworks**  
-- React.js, Node.js, Express.js, Next.js  
-- Tailwind CSS  
-- RESTful APIs  
+*## 🛠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js,python" />
+</p>
 
-**Databases**  
-- MongoDB, MySQL, Cassandra  
+## ⚡ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-**Tools & Platforms**  
-- Git, GitHub  
-- Postman  
-- VS Code  
+## 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+## 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
 
 ---
 
