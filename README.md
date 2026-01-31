@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Namratha R</h1>
-<h3 align="center">Gold Medalist • Full Stack Developer • MCA @ CHRIST University</h3>
+<h3 align="center">Gold Medalist in BCA 2025 • Full Stack Developer • MCA @ CHRIST University</h3>
 
 ---
 
