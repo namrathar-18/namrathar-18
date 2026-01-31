@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Namratha R
 
 🏅 Gold Medalist (Batch Topper) – BCA 2025  
-💻 Full Stack Developer
+💻 Full Stack Developer  
 🎓 MCA Student @ CHRIST (Deemed to be University), Bangalore  
 
 ---
