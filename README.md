@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Namratha R
 
 🏅 Gold Medalist (Batch Topper) – BCA 2025  
-💻 Full Stack Web Developer (MERN Stack)  
+💻 Full Stack Developer
 🎓 MCA Student @ CHRIST (Deemed to be University), Bangalore  
 
 ---
@@ -83,7 +83,7 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 
 ### 🏆 Leadership Experience
 - Event Head – IT Fest **Kalopsia 2024**, Presidency College  
-- Event Head – IT Fest **Aarohana 2023**, Presidency College  
+- Coordinater – IT Fest **Aarohana 2023**, Presidency College  
 
 ---
 
