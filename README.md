@@ -16,7 +16,7 @@ I am a Full Stack Web Developer with a strong foundation in MERN stack developme
 **Programming Languages**  
 - C, Java, JavaScript, Python  
 
-*## 🛠 Languages
+## 🛠 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,python" />
 </p>
