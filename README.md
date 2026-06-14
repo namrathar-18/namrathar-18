@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -32,46 +32,69 @@
 
 <div align="center">
 
-### 💬 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="50%">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**💬 Languages**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,ts,c&theme=dark" />
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+`Java` &nbsp; `JavaScript` &nbsp; `TypeScript` &nbsp; `SQL` &nbsp; `C`
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+  </td>
+    <td align="center" width="50%">
 
-### 🧪 Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
+
+`React.js` &nbsp; `Next.js` &nbsp; `Redux` &nbsp; `Tailwind CSS` &nbsp; `HTML5` &nbsp; `CSS3`
+
+  </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=dark" />
+
+`Node.js` &nbsp; `Express.js` &nbsp; `Socket.io` &nbsp; `REST APIs` &nbsp; `JWT`
+
+  </td>
+    <td align="center" width="50%">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
+
+`MongoDB` &nbsp;·&nbsp; schema design, aggregation pipelines, indexing
+`Redis` &nbsp;·&nbsp; caching, pub/sub, rate limiting &nbsp; `MySQL`
+
+  </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel&theme=dark" />
+
+`AWS (EC2, S3, IAM)` &nbsp; `Docker` &nbsp; `GitHub Actions` &nbsp; `Vercel` &nbsp; `Render`
+
+  </td>
+    <td align="center" width="50%">
+
+**🧪 Tools & Testing**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+
+`Git` &nbsp; `Postman` &nbsp; `Jest` &nbsp; `Supertest` &nbsp; `k6 (load testing)` &nbsp; `VS Code`
+
+  </td>
+  </tr>
+</table>
 
 </div>
 
