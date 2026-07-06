@@ -12,19 +12,36 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
 ### 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<br/>
+
 - 🎓 **MCA @ CHRIST (Deemed to be University)** — GPA: **9.32 / 10**
+
 - 🥇 **BCA Gold Medalist** @ Presidency College — GPA: **9.54 / 10**
+
 - 💼 Currently a **Technical Consultant Intern @ Adobe**
+
 - ⚡ I build things that are fast, scalable, and don't fall over under load
+
 - 🧠 Deep interest in **system design**, **real-time architectures**, and **backend engineering**
-- 🌱 Always exploring — currently leveling up on **distributed systems** and **cloud-native patterns**
+
+- 🌱 Currently leveling up on **distributed systems** and **cloud-native patterns**
+
 - 📍 Based in **Bangalore, Karnataka**
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img alt="Coding" width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
