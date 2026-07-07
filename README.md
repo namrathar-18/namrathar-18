@@ -20,11 +20,13 @@
 
 <br/>
 
+- 🌐 **Portfolio:** [namrathar-18.github.io/portfolio](https://namrathar-18.github.io/portfolio/)
+
 - 🎓 **MCA @ CHRIST (Deemed to be University)** — GPA: **9.32 / 10**
 
 - 🥇 **BCA Gold Medalist** @ Presidency College — GPA: **9.54 / 10**
 
-- 💼 Currently a **Technical Consultant Intern @ Adobe**
+- 💼 Ex-**Technical Consultant Intern @ Adobe** (Apr – Jun 2026)
 
 - ⚡ I build things that are fast, scalable, and don't fall over under load
 
